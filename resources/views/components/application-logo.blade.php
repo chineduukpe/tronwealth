@@ -1,0 +1,1 @@
+<img src="{{asset('assets/img/tronlogo-sq.png')}}" style='width: 100px; height: 75px' alt="">

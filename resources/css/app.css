@@ -1,0 +1,20 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@import url("https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+
+
+
+.top-social{
+    background: #444;
+}
+
+.top-socials .socials{
+    position: absolute;
+    height: 100%;
+    
+}
+
+.p-5{
+    padding: 5em;
+}
